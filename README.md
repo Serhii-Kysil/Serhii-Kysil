@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Serhii and I'm a Front-End Developer, from Ukraine.</h2>
+<h2 align="left">Hi 👋! My name is Serhii and I'm a Full-Stack.</h2>
 
 ###
 
